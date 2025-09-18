@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/lylols/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lylols/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
