@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lylols/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/lylols/LeetCode/tree/master/0013-roman-to-integer) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lylols/LeetCode/tree/master/0013-roman-to-integer) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lylols/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lylols/LeetCode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
