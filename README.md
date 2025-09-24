@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lylols/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1894-merge-strings-alternately](https://github.com/lylols/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/lylols/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lylols/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1894-merge-strings-alternately](https://github.com/lylols/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
