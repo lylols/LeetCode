@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lylols/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lylols/LeetCode/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
+| [1585-the-kth-factor-of-n](https://github.com/lylols/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lylols/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/lylols/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
