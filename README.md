@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lylols/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lylols/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/lylols/LeetCode/tree/master/0049-group-anagrams) |
+| [0697-degree-of-an-array](https://github.com/lylols/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lylols/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/lylols/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0697-degree-of-an-array](https://github.com/lylols/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/lylols/LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-longest-mountain-in-array](https://github.com/lylols/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/lylols/LeetCode/tree/master/0890-lemonade-change) |
