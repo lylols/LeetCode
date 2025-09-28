@@ -7,7 +7,8 @@ public:
                 stk.push(ch);
             }
             else{
-                if(stk.empty() || stk.top() == '(' && ch == ')' ||
+                if(stk.empty()) return false;
+                if(stk.top() == '(' && ch == ')' ||
                     stk.top() == '[' && ch == ']' ||
                     stk.top() == '{' && ch == '}'){
                     stk.pop();
