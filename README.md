@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/lylols/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/lylols/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
+| [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/lylols/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/lylols/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/lylols/LeetCode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
+| [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1646-kth-missing-positive-number](https://github.com/lylols/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lylols/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/lylols/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/lylols/LeetCode/tree/master/0890-lemonade-change) |
+| [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/lylols/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/lylols/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Brainteaser
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
+| [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Binary Search
 |  |
