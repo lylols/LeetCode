@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lylols/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lylols/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/lylols/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lylols/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/lylols/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lylols/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lylols/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sorting
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/lylols/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/lylols/LeetCode/tree/master/0724-find-pivot-index) |
+| [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Heap (Priority Queue)
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lylols/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/lylols/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1646-kth-missing-positive-number](https://github.com/lylols/LeetCode/tree/master/1646-kth-missing-positive-number) |
 ## Counting Sort
 |  |
