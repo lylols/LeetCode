@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/lylols/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/lylols/LeetCode/tree/master/1642-water-bottles) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [3336-water-bottles-ii](https://github.com/lylols/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/lylols/LeetCode/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/lylols/LeetCode/tree/master/1642-water-bottles) |
 | [2470-removing-stars-from-a-string](https://github.com/lylols/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/lylols/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Matrix
 |  |
 | ------- |
