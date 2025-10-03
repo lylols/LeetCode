@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lylols/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/lylols/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/lylols/LeetCode/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/lylols/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0697-degree-of-an-array](https://github.com/lylols/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lylols/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0456-132-pattern](https://github.com/lylols/LeetCode/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/lylols/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lylols/LeetCode/tree/master/0020-valid-parentheses) |
+| [0456-132-pattern](https://github.com/lylols/LeetCode/tree/master/0456-132-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lylols/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/lylols/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lylols/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/lylols/LeetCode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/lylols/LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
