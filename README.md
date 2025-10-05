@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lylols/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/lylols/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/lylols/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lylols/LeetCode/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/lylols/LeetCode/tree/master/0456-132-pattern) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lylols/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/lylols/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/lylols/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## String Matching
