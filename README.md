@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lylols/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lylols/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/lylols/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/lylols/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/lylols/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lylols/LeetCode/tree/master/0231-power-of-two) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/lylols/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Recursion
 |  |
 | ------- |
