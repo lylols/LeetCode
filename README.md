@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lylols/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lylols/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lylols/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/lylols/LeetCode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/lylols/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lylols/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/lylols/LeetCode/tree/master/0443-string-compression) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lylols/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/lylols/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lylols/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/lylols/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/lylols/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lylols/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lylols/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lylols/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/lylols/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lylols/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/lylols/LeetCode/tree/master/0435-non-overlapping-intervals) |
