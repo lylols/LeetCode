@@ -1,34 +1,48 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        int m = matrix.size();        // rows
-        int n = matrix[0].size();     // columns
-        int top = 0, bottom = m - 1;
-        int left = 0, right = n - 1;
+
         vector<int> result;
 
-        while (top <= bottom && left <= right) {
-            // Left → Right
-            for (int i = left; i <= right; i++)
+        int m = matrix.size();      // number of rows
+        int n = matrix[0].size();   // number of columns
+
+        int count = 0;
+        int total = m * n;
+
+        int top = 0;
+        int down = m - 1;
+        int left = 0;
+        int right = n - 1;
+
+        while (count < total) {
+
+            // Left to Right
+            for (int i = left; count < total && i <= right; i++) {
                 result.push_back(matrix[top][i]);
+                count++;
+            }
             top++;
-            if (top > bottom) break;
 
-            // Top → Bottom
-            for (int i = top; i <= bottom; i++)
+            // Top to Bottom
+            for (int i = top; count < total && i <= down; i++) {
                 result.push_back(matrix[i][right]);
+                count++;
+            }
             right--;
-            if (left > right) break;
 
-            //Right → Left
-            for (int i = right; i >= left; i--)
-                result.push_back(matrix[bottom][i]);
-            bottom--;
-            if (top > bottom) break;
+            // Right to Left
+            for (int i = right; count < total && i >= left; i--) {
+                result.push_back(matrix[down][i]);
+                count++;
+            }
+            down--;
 
-            // Bottom → Top
-            for (int i = bottom; i >= top; i--)
+            // Bottom to Top
+            for (int i = down; count < total && i >= top; i--) {
                 result.push_back(matrix[i][left]);
+                count++;
+            }
             left++;
         }
 
