@@ -5,8 +5,9 @@ public:
         int maxi=0;
         int maxel= -1;
         for(auto s: nums){
-            freq[s]++;
-            if (s%2==0){
+            if (s % 2 != 0) continue;  
+            else{
+                freq[s]++;
                 if (freq[s]>maxi){
                     maxi = freq[s];
                     maxel= s;
