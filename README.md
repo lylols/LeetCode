@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lylols/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/lylols/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/lylols/LeetCode/tree/master/0229-majority-element-ii) |
 | [0697-degree-of-an-array](https://github.com/lylols/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lylols/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lylols/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/lylols/LeetCode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/lylols/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lylols/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lylols/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/lylols/LeetCode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/lylols/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/lylols/LeetCode/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/lylols/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/lylols/LeetCode/tree/master/0229-majority-element-ii) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Simulation
