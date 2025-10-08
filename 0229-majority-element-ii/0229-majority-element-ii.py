@@ -15,14 +15,10 @@ class Solution:
             else: 
                 cnt1-=1
                 cnt2-=1
-        f1=f2=0
-        for m in nums:
-            if m== c1: f1+=1
-            elif m== c2: f2+=1
         
         ans = []
-        if f1 > len(nums)//3:
+        if nums.count(c1) > len(nums)//3:
             ans.append(c1)
-        if f2 > len(nums)//3:
+        if nums.count(c2) > len(nums)//3:
             ans.append(c2)
         return ans
