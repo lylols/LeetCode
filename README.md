@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lylols/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0697-degree-of-an-array](https://github.com/lylols/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
+| [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lylols/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lylols/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/lylols/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lylols/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lylols/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/lylols/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/lylols/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/lylols/LeetCode/tree/master/0898-transpose-matrix) |
+| [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lylols/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lylols/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lylols/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
+| [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2486-most-frequent-even-element](https://github.com/lylols/LeetCode/tree/master/2486-most-frequent-even-element) |
 ## Simulation
