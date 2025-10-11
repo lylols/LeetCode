@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/lylols/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3451-string-compression-iii](https://github.com/lylols/LeetCode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Math
 |  |
