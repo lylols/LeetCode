@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lylols/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1813-maximum-erasure-value](https://github.com/lylols/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/lylols/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lylols/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lylols/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/lylols/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lylols/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/lylols/LeetCode/tree/master/0898-transpose-matrix) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lylols/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/lylols/LeetCode/tree/master/1646-kth-missing-positive-number) |
