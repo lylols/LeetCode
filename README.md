@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/lylols/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/lylols/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lylols/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lylols/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/lylols/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/lylols/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/lylols/LeetCode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1646-kth-missing-positive-number](https://github.com/lylols/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lylols/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Counting Sort
 |  |
 | ------- |
