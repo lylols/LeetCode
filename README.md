@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lylols/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2571-find-the-pivot-integer](https://github.com/lylols/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lylols/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/lylols/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/lylols/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/lylols/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lylols/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lylols/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/lylols/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
