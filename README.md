@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/lylols/LeetCode/tree/master/0898-transpose-matrix) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/lylols/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lylols/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lylols/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/lylols/LeetCode/tree/master/0890-lemonade-change) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/lylols/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lylols/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
