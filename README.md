@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/lylols/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/lylols/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lylols/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lylols/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lylols/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/lylols/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/lylols/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/lylols/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Divide and Conquer
 |  |
