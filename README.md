@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/lylols/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/lylols/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3451-string-compression-iii](https://github.com/lylols/LeetCode/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lylols/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/lylols/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lylols/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/lylols/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lylols/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/lylols/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/lylols/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/lylols/LeetCode/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/lylols/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/lylols/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/lylols/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Brainteaser
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/lylols/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/lylols/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3046-minimum-operations-to-make-a-special-number](https://github.com/lylols/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 ## Divide and Conquer
 |  |
 | ------- |
