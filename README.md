@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/lylols/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/lylols/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [2487-optimal-partition-of-string](https://github.com/lylols/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/lylols/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/lylols/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2487-optimal-partition-of-string](https://github.com/lylols/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lylols/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/lylols/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lylols/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lylols/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2487-optimal-partition-of-string](https://github.com/lylols/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lylols/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/lylols/LeetCode/tree/master/2736-minimum-additions-to-make-valid-string) |
