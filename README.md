@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/lylols/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/lylols/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/lylols/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/lylols/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lylols/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2571-find-the-pivot-integer](https://github.com/lylols/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/lylols/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/lylols/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/lylols/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2887-sort-vowels-in-a-string](https://github.com/lylols/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lylols/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lylols/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/lylols/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lylols/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2442-number-of-arithmetic-triplets](https://github.com/lylols/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/lylols/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lylols/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/lylols/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2305-append-k-integers-with-minimal-sum](https://github.com/lylols/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2487-optimal-partition-of-string](https://github.com/lylols/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/lylols/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
