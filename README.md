@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/lylols/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/lylols/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/lylols/LeetCode/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lylols/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2442-number-of-arithmetic-triplets](https://github.com/lylols/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/lylols/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/lylols/LeetCode/tree/master/2487-optimal-partition-of-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lylols/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/lylols/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/lylols/LeetCode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lylols/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lylols/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lylols/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/lylols/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lylols/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2442-number-of-arithmetic-triplets](https://github.com/lylols/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/lylols/LeetCode/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/lylols/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lylols/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/lylols/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lylols/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/lylols/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/lylols/LeetCode/tree/master/3336-water-bottles-ii) |
