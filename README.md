@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/lylols/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/lylols/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0966-binary-subarrays-with-sum](https://github.com/lylols/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/lylols/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/lylols/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lylols/LeetCode/tree/master/0231-power-of-two) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/lylols/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lylols/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Recursion
 |  |
