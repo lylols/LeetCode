@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/lylols/LeetCode/tree/master/2487-optimal-partition-of-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/lylols/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/lylols/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3583-count-special-triplets](https://github.com/lylols/LeetCode/tree/master/3583-count-special-triplets) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/lylols/LeetCode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/lylols/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/lylols/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lylols/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/lylols/LeetCode/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lylols/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lylols/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/lylols/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/lylols/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2486-most-frequent-even-element](https://github.com/lylols/LeetCode/tree/master/2486-most-frequent-even-element) |
+| [3583-count-special-triplets](https://github.com/lylols/LeetCode/tree/master/3583-count-special-triplets) |
 ## Simulation
 |  |
 | ------- |
