@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/lylols/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/lylols/LeetCode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/lylols/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/lylols/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/lylols/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/lylols/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/lylols/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/lylols/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/lylols/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/lylols/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/lylols/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/lylols/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
