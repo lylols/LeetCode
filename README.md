@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/lylols/LeetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/lylols/LeetCode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/lylols/LeetCode/tree/master/0412-fizz-buzz) |
+| [1390-four-divisors](https://github.com/lylols/LeetCode/tree/master/1390-four-divisors) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/lylols/LeetCode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1585-the-kth-factor-of-n](https://github.com/lylols/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/lylols/LeetCode/tree/master/1642-water-bottles) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/lylols/LeetCode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/lylols/LeetCode/tree/master/1390-four-divisors) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/lylols/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/lylols/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
