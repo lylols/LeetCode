@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lylols/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/lylols/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/lylols/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/lylols/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lylols/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lylols/LeetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/lylols/LeetCode/tree/master/0319-bulb-switcher) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/lylols/LeetCode/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/lylols/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/lylols/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/lylols/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/lylols/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/lylols/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lylols/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lylols/LeetCode/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/lylols/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/lylols/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/lylols/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lylols/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lylols/LeetCode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/lylols/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lylols/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
