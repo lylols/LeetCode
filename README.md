@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/lylols/LeetCode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/lylols/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/lylols/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/lylols/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/lylols/LeetCode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/lylols/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/lylols/LeetCode/tree/master/0778-reorganize-string) |
 | [1464-reduce-array-size-to-the-half](https://github.com/lylols/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/lylols/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/lylols/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
