@@ -3,7 +3,7 @@ class Solution:
         l=0
         pro =1
         cnt=0
-        tocnt=0
+        #tocnt=0
         for r in range(len(nums)):
             pro*= nums[r]
             while pro>= k and l<=r:
