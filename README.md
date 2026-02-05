@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/lylols/LeetCode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/lylols/LeetCode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/lylols/LeetCode/tree/master/3355-minimum-levels-to-gain-more-points) |
+| [3379-transformed-array](https://github.com/lylols/LeetCode/tree/master/3379-transformed-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lylols/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/lylols/LeetCode/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/lylols/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/lylols/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/lylols/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [3336-water-bottles-ii](https://github.com/lylols/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/lylols/LeetCode/tree/master/3379-transformed-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/lylols/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/lylols/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
