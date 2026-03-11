@@ -522,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lylols/LeetCode/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/lylols/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/lylols/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/lylols/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Recursion
